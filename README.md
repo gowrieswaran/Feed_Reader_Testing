@@ -61,3 +61,15 @@ Click on the link <https://gowrieswaran.github.io/Feed_Reader_Testing/.>
 - Double click index.html to load feed reader in the browser.
 
 - All the test suites with the specs and test results can be found at the end of the page.
+
+### Resources 
+
+I have used the following resources to learn about Jasmine.
+
+- <https://jasmine.github.io/tutorials/your_first_suite>
+
+- <https://www.tutorialspoint.com/jasminejs/index.htm>
+
+- <https://devhints.io/jasmine>
+
+- <https://howtodoinjava.com/scripting/javascript/jasmine-javascript-unit-testing-tutorial/#suite-spec>
