@@ -44,7 +44,7 @@ describe("A suite", () => {
 
 ## How to Run
 
-Click on the link < >
+Click on the link <https://gowrieswaran.github.io/Feed_Reader_Testing/.>
 
 - When the page loads, all of the test should pass.
 
